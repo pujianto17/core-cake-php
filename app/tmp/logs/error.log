@@ -1,0 +1,136 @@
+2010-08-31 15:45:36 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/user/workarea/appcore/cake/basics.php:109) in [CORE/cake/libs/controller/controller.php, line 644]
+2010-08-31 15:52:44 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_core_paths) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:52:44 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_appcore_list) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:52:44 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_aros) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:52:44 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_acos) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:52:44 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_aros_acos) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:52:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/user/workarea/appcore/cake/libs/file.php:156) in [CORE/cake/libs/controller/controller.php, line 644]
+2010-08-31 15:52:44 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_dir_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:52:44 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_file_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:52:44 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_default_en_us) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:08 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_core_paths) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:08 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_appcore_list) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:08 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_aros) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:08 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_acos) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:08 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_aros_acos) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/user/workarea/appcore/cake/libs/file.php:156) in [CORE/cake/libs/controller/controller.php, line 644]
+2010-08-31 15:53:08 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_dir_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:08 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_file_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:08 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_default_en_us) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:29 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_core_paths) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:29 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_appcore_list) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:29 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_aros) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:29 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_acos) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:29 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_aros_acos) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/user/workarea/appcore/cake/libs/file.php:156) in [CORE/cake/libs/controller/controller.php, line 644]
+2010-08-31 15:53:29 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_dir_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:29 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_file_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:29 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_default_en_us) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:33 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_core_paths) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:34 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_appcore_list) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:34 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_aros) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:34 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_acos) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:34 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/models/cake_model_default_aros_acos) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:34 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/user/workarea/appcore/cake/libs/file.php:156) in [CORE/cake/libs/controller/controller.php, line 644]
+2010-08-31 15:53:34 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_dir_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:34 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_file_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:53:34 Warning: Warning (2): fopen(/home/user/workarea/appcore/app/tmp/cache/persistent/cake_core_default_en_us) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
+2010-08-31 15:54:06 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Menu.menu_type_id' in 'field list'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2010-08-31 15:54:06 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/model.php, line 2192]
+2010-08-31 15:54:09 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Menu.menu_type_id' in 'field list'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2010-08-31 15:54:09 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/model.php, line 2192]
+2010-08-31 15:54:58 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Menu.menu_type_id' in 'field list'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2010-08-31 15:54:58 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/model.php, line 2192]
+2014-01-07 14:57:13 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [realname] => Administrator
+            [email] => admin@admin.com
+            [group_id] => 1
+            [active] => 1
+            [passwordchangecode] => 
+            [created] => 2010-08-31 15:48:16
+            [modified] => 2010-08-31 15:48:16
+        )
+
+)
+
+Aco: controllers/Listdatas/index in [CORE\cake\libs\controller\components\acl.php, line 239]
+2014-01-07 14:57:13 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at D:\xampp\xampp\htdocs\core\cake\basics.php:109) in [CORE\cake\libs\controller\controller.php, line 644]
+2014-01-09 15:00:25 Warning: Warning (512): Method FormHelper::form does not exist in [CORE\cake\libs\view\helper.php, line 143]
+2014-01-09 15:01:24 Warning: Warning (512): Method FormHelper::form does not exist in [CORE\cake\libs\view\helper.php, line 143]
+2014-04-10 12:09:49 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\users\index.ctp, line 33]
+2014-04-10 14:48:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'checkByField' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 14:48:35 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at D:\xampp\xampp\htdocs\core\cake\basics.php:109) in [CORE\cake\libs\controller\controller.php, line 644]
+2014-04-10 15:12:19 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'LetterIn.groups_id' in 'on clause'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 15:12:19 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\letter_ins\index.ctp, line 33]
+2014-04-10 15:35:31 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Users.alias' in 'field list'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 15:42:08 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Users.alias' in 'field list'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 15:42:32 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Groups.group_id' in 'on clause'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 17:13:53 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 15]
+2014-04-10 17:20:07 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 15]
+2014-04-10 17:23:46 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 15]
+2014-04-10 17:24:11 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 15]
+2014-04-10 17:24:41 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 15]
+2014-04-10 17:25:04 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 19]
+2014-04-10 17:25:28 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 19]
+2014-04-10 17:26:17 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 21]
+2014-04-10 17:26:32 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 21]
+2014-04-10 17:54:16 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [APP\controllers\letter_ins_controller.php, line 21]
+2014-04-10 17:54:16 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in [APP\controllers\letter_ins_controller.php, line 21]
+2014-04-10 17:54:16 Warning: Warning (2): implode() [<a href='http://php.net/function.implode'>function.implode</a>]: Bad arguments. in [APP\controllers\letter_ins_controller.php, line 21]
+2014-04-10 18:22:41 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 14]
+2014-04-10 18:37:23 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 27]
+2014-04-10 19:45:55 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\controllers\letter_ins_controller.php, line 27]
+2014-04-10 20:00:18 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Array' in 'field list'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 20:14:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [realname] => Administrator
+            [email] => admin@admin.com
+            [group_id] => 1
+            [active] => 1
+            [passwordchangecode] => 
+            [created] => 2010-08-31 15:48:16
+            [modified] => 2010-08-31 15:48:16
+        )
+
+)
+
+Aco: controllers/Users/active in [CORE\cake\libs\controller\components\acl.php, line 239]
+2014-04-10 20:14:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at D:\xampp\xampp\htdocs\core\cake\basics.php:109) in [CORE\cake\libs\controller\controller.php, line 644]
+2014-04-10 20:14:39 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [realname] => Administrator
+            [email] => admin@admin.com
+            [group_id] => 1
+            [active] => 1
+            [passwordchangecode] => 
+            [created] => 2010-08-31 15:48:16
+            [modified] => 2010-08-31 15:48:16
+        )
+
+)
+
+Aco: controllers/Users/view in [CORE\cake\libs\controller\components\acl.php, line 239]
+2014-04-10 20:14:39 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at D:\xampp\xampp\htdocs\core\cake\basics.php:109) in [CORE\cake\libs\controller\controller.php, line 644]
+2014-04-10 21:23:37 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1052: Column 'id' in where clause is ambiguous</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 21:41:49 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1052: Column 'id' in where clause is ambiguous</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 21:44:15 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1052: Column 'id' in where clause is ambiguous</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 21:44:34 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1052: Column 'id' in where clause is ambiguous</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 21:45:17 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1052: Column 'id' in where clause is ambiguous</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 22:00:43 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Users.LetterIncreated_by' in 'field list'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2014-04-10 22:01:01 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'LetterIn.created_by' in 'field list'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]

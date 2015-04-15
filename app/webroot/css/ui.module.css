@@ -1,0 +1,58 @@
+.show-module li {
+    list-style:		none;
+    text-decoration: none;
+}
+.tablegrid-module tr td {
+    background: #E0EEEE;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+tr.hidden td {
+    background: #F5F5F5;
+}
+div.controller {
+    text-align: left;
+}
+div.level-1 {
+    text-align: left;
+    margin-left: 25px;
+}
+div.level-2 {
+    text-align: left;
+    margin-left: 35px;
+}
+div.level-3 {
+    text-align: left;
+    margin-left: 45px;
+}
+div.level-4 {
+    text-align: left;
+    margin-left: 55px;
+}
+div.field-header {
+    font-weight: bold;
+}
+
+/* for module index */
+.striped { 
+    background-color: #f9f9f9; 
+}
+.controller-row { 
+    background: #6f6f6f; 
+    color: #fff; 
+    font-weight: bold; 
+}
+.controller-row a { 
+    color: #efefef; 
+}
+.controller:hover { 
+    cursor: pointer; 
+}
+.collapse { 
+    background: url('../img/icons/bullet_arrow_down.png') no-repeat; 
+    padding-left: 15px; 
+}
+.expand { 
+    background: url('../img/icons/bullet_arrow_right.png') no-repeat; 
+    padding-left: 15px; 
+}

@@ -1,0 +1,22 @@
+** Created on August 2010 **
+
+Konfigurasi awal yang harus dilakukan
+ * Buat database dengan nama apapun
+ * Import struktur table: appcore_structure.sql & data: appcore_data.sql
+   yang terdapat di /app/config/sql/dump
+ * Setting database.php sesuai dengan database yang telah dibuat
+ * Pastikan permission folder aplikasi chmod 755 
+   dan /app/tmp chmod 777 -R
+ * Coba Login dengan username: admin, password: admin
+ 
+Default Menu
+ * Group Management: untuk menambah group user
+ * User Management: untuk menambah user dan set group
+ * Menu Management: untuk menambah menu, 
+   gunakan move up dan move down untuk mengatur tata letak menu
+ * Access Menu Management: untuk mengatur hak akses menu untuk group,
+   default group Administrator adalah semua menu
+ * Module Management: untuk generate nama controller dan action/method,
+   generate module dilakukan setiap kali menambah controller atau action 
+   baru agar bisa dijalankan oleh aplikasi
+ * Change Password: untuk mengubah password user yang sedang login
